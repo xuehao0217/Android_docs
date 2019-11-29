@@ -267,11 +267,11 @@ https://github.com/google/battery-historian
 
 
 
-最后，好文非常多，本文希望仅起到抛砖引入的效果，感谢所有作者~
+最后，感谢所有作者~
 
 
 
-这里提供一下该ppt的下载以及Google的性能优化典范视频，链接：https://pan.baidu.com/s/1kVHyCUb，懒得复制的可以公众号内回复1118即可。
+这里提供一下该ppt的下载以及Google的性能优化典范视频，链接：https://pan.baidu.com/s/1kVHyCUb
 
 
 
