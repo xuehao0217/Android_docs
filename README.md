@@ -284,3 +284,8 @@ http://gt.tencent.com/download.html
 当然本文全部内容也已经同步到了wanandroid，有需要可以关键词搜索。
 
 
+# 性能优化工具使用
+https://www.jianshu.com/p/09cf6cff9457
+
+
+
